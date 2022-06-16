@@ -47,9 +47,7 @@ android:textStyle="bold"
 
 更不要说如下文这样流畅的动画
 
-<video id="video" controls="" preload="none">
-<source id="mp4" src="https://video.zcool.cn/e9817e6e6c5a446b974c0c8564ed442e/d948145f7a934dcf8900eb1a1731ef68-5287d2089db37e62345123a1be272f8b.mp4?auth_key=1655376191-80600739730446d09df559dec61e0eb9-0-e95bb74d083e0669a39186bfa4d3b161" type="video/mp4">
-</video>
+[小米演示动画](https://video.zcool.cn/e9817e6e6c5a446b974c0c8564ed442e/d948145f7a934dcf8900eb1a1731ef68-5287d2089db37e62345123a1be272f8b.mp4?auth_key=1655376191-80600739730446d09df559dec61e0eb9-0-e95bb74d083e0669a39186bfa4d3b161)
 
 这时候我们要祭出一个属性，他的名字叫**fontFamily**
 
